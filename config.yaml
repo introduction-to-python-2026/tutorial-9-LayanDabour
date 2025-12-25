@@ -1,2 +1,2 @@
-path: "knn_penguins (1).joblib"
+path: "knn_penguins2.joblib"
 features: ['flipper_length_mm', 'body_mass_g'] # You are allowed to add only two features.
